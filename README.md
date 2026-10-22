@@ -12,7 +12,7 @@ A small Flutter drum app: tap the screen to play bundled percussion samples and 
 
 | Drum screen |
 | :---: |
-| <img src="assets/screenshots/drum-music.png" width="200" alt="Drum Music screen with a drum-kit illustration on an amber background"/> |
+| <img src="Assets/screenshots/drum-music.png" width="200" alt="Drum Music screen with a drum-kit illustration on an amber background"/> |
 
 The current screenshot is in `assets/screenshots/`. Add more captures there and extend the table when the app gets new screens; screenshots do not need to be added to `pubspec.yaml` for the README.
 
